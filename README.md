@@ -1,2 +1,2 @@
-# ordova-plugin-smsConstant
+# Cordova-plugin-smsConstant
 Sms user Constant
